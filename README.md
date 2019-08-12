@@ -8,6 +8,8 @@ App View
 
 <img width="305" alt="Screenshot 2019-08-12 at 11 11 12 PM" src="https://user-images.githubusercontent.com/42263217/62885597-e480e380-bd56-11e9-8bb4-25b674f5435a.png">
 
+final page
+
 <img width="299" alt="Screenshot 2019-08-12 at 11 11 26 PM" src="https://user-images.githubusercontent.com/42263217/62885599-e5b21080-bd56-11e9-9af0-fa9f0c3f06eb.png">
 
 

@@ -1,16 +1,33 @@
-# Quizzler
-A Basic Quiz app developed using Flutter,showing the implementation of OOPS concepts of Dart in application
-App Icon
+# Quizzler ![Author -Rehan Khan](https://img.shields.io/badge/Author-Rehan%20Khan-blue)
 
-<img width="59" alt="Screenshot 2019-08-12 at 9 33 19 PM" src="https://user-images.githubusercontent.com/42263217/62885574-d763f480-bd56-11e9-8f1d-964928923f24.png">
+## A simple quiz flutter appliaction showing the implementation of OOPS concepts of Dart.
 
-App View
+---
 
-<img width="305" alt="Screenshot 2019-08-12 at 11 11 12 PM" src="https://user-images.githubusercontent.com/42263217/62885597-e480e380-bd56-11e9-8bb4-25b674f5435a.png">
+App UI
 
-final page
+![Quizzler Gif](quiz.gif)
 
-<img width="299" alt="Screenshot 2019-08-12 at 11 11 26 PM" src="https://user-images.githubusercontent.com/42263217/62885599-e5b21080-bd56-11e9-9af0-fa9f0c3f06eb.png">
+---
+
+🖥Requirements
+
+- Any Operating System (i.e. MacOS X, Linux, WIndows)
+- IDE (i.e. VsCode, Android Studio)
+- **Flutter plugin** if not there [Click here to install](https://flutter.dev/docs/get-started/install)
+- Simulator/Emulator/A real mobile device connected to the system.
+
+---
+
+How to run:
+
+```
+- Download the source code by using command "git clone https://github.com/khan-rehan/Quizzler.git" in command line.
+- Open the project in Android studio/Vscode and also open the simulator/emulator.
+- Now do the following:
+    1. Type flutter get packages in terminal of Studio/VsCode.
+    2. Click on run in Android studio/ type "flutter run" in terminal of VsCode and there you go!.
+```
 
 
 

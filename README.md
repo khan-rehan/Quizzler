@@ -14,7 +14,7 @@ You can check out the corresponding Google code lab [here](https://codelabs.deve
 
 # Getting Started
 
-**Note:** Make sure your Flutter environment is setup & if not install then [Click here to install](https://flutter.dev/docs/get-started/install)
+**Note:** Make sure your Flutter environment is setup & if not installed then [Click here to install](https://flutter.dev/docs/get-started/install)
 
 **Installation**
 

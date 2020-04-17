@@ -1,9 +1,7 @@
 # Quizzler ![Author -Rehan Khan](https://img.shields.io/badge/Author-Rehan%20Khan-blue)
 
-## A simple quiz flutter appliaction showing the implementation of OOPS concepts of Dart.
-
-A one-to-one chat app built on Flutter with firebase authentication.
-
+ ## A simple quiz flutter appliaction showing the implementation of OOPS concepts of Dart.
+ 
 For help getting started with Flutter, view the online [documentation](https://flutter.dev).
 
 You can check out the corresponding Google code lab [here](https://codelabs.developers.google.com/codelabs/flutter/index.html?index=..%2F..%2Findex#0).
